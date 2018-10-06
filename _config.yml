@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 爱知作品
-subtitle: Zhizheng Zhang's Works
+title: Helen Li's Blog
+subtitle: Explore. Dream. Discover. 
 description: Life is to be lived.
-author: Zhizheng Zhang
+author: Helen Li
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://www.izhizheng.com
+url: https://www.helenys.li
 baseurl:
 permalink: /post/:title/
 
@@ -215,13 +215,12 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  Twitter: https://twitter.com/izhizheng
+  Twitter: https://twitter.com/helenysli
   Facebook: https://facebook.com/izhizheng
   Instagram: https://instagram.com/izhizheng
-  Email: mailto:zhizhengzhang@outlook.com
-  GitHub: https://github.com/izhizheng
-  Stack Overflow: https://stackoverflow.com/users/7888730
-
+  Email: mailto:helenysli5489@gmail.com
+  GitHub: https://github.com/helenysli
+  
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
