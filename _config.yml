@@ -6,7 +6,7 @@
 # Site
 title: Helen Li's Blog
 subtitle: Explore. Dream. Discover. 
-description: Life is to be lived.
+description: A Serious Traveler
 author: Helen Li
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -216,8 +216,7 @@ font:
 social:
   #LinkLabel: Link
   Twitter: https://twitter.com/helenysli
-  Facebook: https://facebook.com/izhizheng
-  Instagram: https://instagram.com/izhizheng
+  WeiBo: http://weibo.com/yinshengrujing
   Email: mailto:helenysli5489@gmail.com
   GitHub: https://github.com/helenysli
   
