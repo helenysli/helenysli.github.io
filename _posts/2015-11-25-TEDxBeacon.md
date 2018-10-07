@@ -32,7 +32,7 @@ description: "Serendipity的种子，会因此种下吗？"
 
 ### 1. Lauren Kuntz，我们的家园
 
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli151125%20Lauren-Kuntz.jpeg" style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125%20Lauren-Kuntz.jpeg" style="PADDING-RIGHT: 8px">
 
 Lauren Kuntz，哈佛大学地球和星球科学博士，MIT机械工程和物理双科硕士。她走上来，身后的屏幕，是深蓝的地球。没有多余的话，Lauren单刀直入，抛出问题：你能想象一个低碳的世界吗？你能做什么？
 
@@ -53,7 +53,7 @@ Lauren用精美的画面和震撼的数据，展示我们的生存环境如何�
 那一刻，有些触动。地球、环境、低碳世界、人类未来。礼堂里的孩子们，他们会怎么看自己所在的世界？他们会想到多远的未来？他们会怎么看只比他们大几岁的Jack的梦想和承诺？
 
 ### 2. Miles Jackson，古巴滑板
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli151125%20Miles-Jackson.jpg"  style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125%20Miles-Jackson.jpg"  style="PADDING-RIGHT: 8px">
 
 2012年，24岁的Miles，他做了一项貌似「疯狂」的决定：辞去国家公务员的职位，取出401K养老账户里的存款，全职加入他2年前创立的非营利机构「古巴滑板」（Cuba Skate），帮助古巴的滑板社区成长。
 
@@ -71,7 +71,7 @@ Miles看起来很内向，演讲的音量始终不大，也没有太多的抑扬
 
 ### 3. Phoebe Smolen采访Mary Lou Jepsen
 
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli151125%20Phoebe%20Interview%20Mary%20Lou.jpeg" style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125%20Phoebe%20Interview%20Mary%20Lou.jpeg" style="PADDING-RIGHT: 8px">
 
 小姑娘Phoebe Smolen，看起来只有13、14岁。她面前的这位，Mary Lou Jepson，亲切随和，可是她的成就，可能要吓你一跳。
 
@@ -106,7 +106,7 @@ Mary Lou对待Phoebe和其它孩子的平等与亲和，令我想起一位朋友
 
 ### 4. 年少时遇见的世界 vs 未来的Serendipity
 
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli151125.Moon-Landing.jpg"  style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125.Moon-Landing.jpg"  style="PADDING-RIGHT: 8px">
 
 这只是周六上午让我感觉触动的几个片段而已；同样激励的还有用心做蛋糕的Ellen Bartlett、用蒸汽朋克艺术创作来帮助自闭症儿童的Bruce Rosenbaum；还有来自MIT媒体实验室用「众包」大数据来提升城市智慧的Nikhil Naik。蒙特雷国际研究院的退役海军少将Russ Howard，从加州赶来，以详实的数据展示了全球所面临的经济、资源挑战，甚至提到了中国独生子女政策的负面影响。结束时，Howard将军望着在座的孩子们，说，
 
@@ -138,7 +138,7 @@ Mary Lou对待Phoebe和其它孩子的平等与亲和，令我想起一位朋友
 
 ### 5. 最后一幕的惊喜
 
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli151125.NiuNiu.png" width="300" style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125.NiuNiu.png" width="300" style="PADDING-RIGHT: 8px">
 
 周六上午，最后一个上场的是18岁的中国青年Niu Niu。
 

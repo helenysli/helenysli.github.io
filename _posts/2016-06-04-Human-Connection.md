@@ -1,4 +1,4 @@
----
+---http://image.helenysli.top
 layout: post
 title:      "Human Connection"
 categories: [随笔]
@@ -15,7 +15,7 @@ description: "隐隐知道，这个经历，对我有一些意义，虽然此刻
 {:toc}
 
 
-<img src="http://7xp7zf.com1.z0.glb.clouddn.com/helenysli160604-Suzanne-Watzman-Scarf.jpg" style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli160604-Suzanne-Watzman-Scarf.jpg" style="PADDING-RIGHT: 8px">
 
 波士顿入夏了，也算是进入林林总总的「节日季」了。我漫不经心地晃荡在Brookline「艺术节」上，本地的艺术家、设计师在各自的摊位上，售卖自己的作品。
 
