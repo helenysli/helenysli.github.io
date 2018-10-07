@@ -1,7 +1,9 @@
 ---
 layout: page
 type: about
+title: "关于"
 ---
+
 
 ### 执此一隅
 ￼
