@@ -6,8 +6,6 @@ tags:       [温暖, 悟]
 mathjax:    false
 date:       2016-06-4 15:14:54
 author:     "Helen Li"
-header-img: "https://cdn.rawgit.com/BruceZhaoR/brucezhaor.github.io/master/img/post/..."
-#bg-color: "linear-gradient(56deg, #155799, #159978)"
 description: "隐隐知道，这个经历，对我有一些意义，虽然此刻并不了然。"
 ---
 
