@@ -32,7 +32,8 @@ title: "关于"
 ### Contact Me
 
 [Email](mailto:helenysli5489@gmail.com)  
-[微博：Helen-颖生](http://weibo.com/yinshengrujing)
+[微博：Helen-颖生](http://weibo.com/yinshengrujing)  
+[旧个人博客：行且珍惜](http://www.helenysli.com)
 
 
 
