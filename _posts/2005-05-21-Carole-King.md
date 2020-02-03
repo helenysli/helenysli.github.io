@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "源自肺腑，叩还心扉---Carole King"
-categories: [Music]
+categories: [音乐]
 tags:       [民谣, 温暖, 坑2Do]
 mathjax:    false
 date:       2005-05-21 09:08:54
@@ -103,8 +103,8 @@ Carole King 的专辑在国内很难找。没有听过她的朋友，看看电�
 
 
 ### ChangeLog
-161222：删除已经失效的视听链接；增加一个 2Do 任务（Playing Tapestry on YouTube while editing this piece. Feels good.)    
-050521：Published on blogbus
+- 161222：迁入；删除已经失效的视听链接；增加一个 2Do 任务（Playing Tapestry on YouTube while editing this piece. Feels good.)    
+- 050521：Published on blogbus
 
 
 [^1]: 坑2Do，挖个坑，要写写去年在百老汇看的音乐剧 Beautiful；还有地铁里的一幕。161222
