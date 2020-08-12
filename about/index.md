@@ -34,7 +34,7 @@ title: "关于"
 
 [Email](mailto:helenysli5489@gmail.com)  
 [微博：Helen-颖生](http://weibo.com/yinshengrujing)  
-[旧个人博客：行且珍惜](http://www.helenysli.com)
+[旧个人博客：行且珍惜](http://www.helenysli.com/ch)
 
 
 
