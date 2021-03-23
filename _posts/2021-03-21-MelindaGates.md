@@ -10,8 +10,6 @@ tags:
 description: "关于恐惧和自由。关于勇气和选择。"
 
 ---
-* content
-{:toc}
 
 
 
@@ -330,7 +328,6 @@ Our presence automatically liberates others.
 愿你也能拥有你的 moment of lift，拥有坚定的自由和轻盈；  
 愿你能为更多的人创造 moment of lift。We are the lift. 
 
-## Reference
 
 [^1]: [But That’s Another Story - Macmillan Podcasts](https://us.macmillan.com/podcasts/podcast/but-thats-another-story/)
 
