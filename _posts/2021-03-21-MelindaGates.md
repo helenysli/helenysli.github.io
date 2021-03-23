@@ -330,15 +330,16 @@ Our presence automatically liberates others.
 愿你也能拥有你的 moment of lift，拥有坚定的自由和轻盈；  
 愿你能为更多的人创造 moment of lift。We are the lift. 
 
-### Reference
+## Reference
 
 [^1]: [But That’s Another Story - Macmillan Podcasts](https://us.macmillan.com/podcasts/podcast/but-thats-another-story/)
 
-[^2]: [Melinda Gates | The Moment Of Lift: How Empowering Women Changes The World In Conversation With John Green Free Library podcast](https://player.fm/series/free-library-podcast/melinda-gates-the-moment-of-lift-how-empowering-women-changes-the-world-in-conversation-with-john-green)
+[^2]: [Melinda Gates The Moment Of Lift: How Empowering Women Changes The World In Conversation With John Green Free Library podcast](https://player.fm/series/free-library-podcast/melinda-gates-the-moment-of-lift-how-empowering-women-changes-the-world-in-conversation-with-john-green)
 
 [^3]: [Super Soul Sunday Melinda Gates](https://www.oprah.com/own-super-soul-sunday/melinda-gates)
 
 --- 
 ChangeLog
 
-- 210320 起稿
+- 210320 创立
+- 210321 完稿
