@@ -1,13 +1,16 @@
 ---
 layout: post
-title:      "冥想 100 天"
-categories: [成长]
-tags:       [冥想, 坑2Do]
+title:      "源自肺腑，叩还心扉---Carole King"
+categories: [音乐]
+tags:       [民谣, 温暖, 坑2Do]
 mathjax:    false
-date:       2013-11-12 11:42:54
+date:       2005-05-21 09:08:54
 author:     "Helen Li"
-description: "练冥想，得永生"
+header-img: "https://cdn.rawgit.com/BruceZhaoR/brucezhaor.github.io/master/img/post/..."
+#bg-color: "linear-gradient(56deg, #155799, #159978)"
+description: "曾经是、依然是我最喜欢的歌手。温暖。"
 ---
+
 
 昨天是冥想第100天。算是一个 milestone。回头看了一遍这 100 天的 Meditation Journal，记录下第一段旅程的发现和感触。
 
