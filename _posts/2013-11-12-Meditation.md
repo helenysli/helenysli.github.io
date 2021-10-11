@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "冥想 100 天"
-date: 2013-11-12 11:24:01 +0800
+date: 2011-11-12 11:42:01 +0800
 categories:
   - 成长
 tags:
-  - 冥想     
-	- 心智   
-  - NewEngland
-description: "始于无知，终于感恩"
+  - 冥想
+  - Women'sPhilanthropy
+description: "练冥想"
 
 ---
+
+
 
 昨天是冥想第100天。算是一个 milestone。回头看了一遍这100天的 Meditation Journal，记录下第一段旅程的发现和感触。
 
