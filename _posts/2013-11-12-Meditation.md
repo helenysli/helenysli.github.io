@@ -1,10 +1,10 @@
 ---
 layout: post
-title:      "源自肺腑，叩还心扉---Carole King"
-categories: [音乐]
+title:      "冥想 100 天"
+categories: [成长]
 tags:       [民谣, 温暖, 坑2Do]
 mathjax:    false
-date:       2005-05-21 09:08:54
+date:       2013-11-12 11:08:54
 author:     "Helen Li"
 header-img: "https://cdn.rawgit.com/BruceZhaoR/brucezhaor.github.io/master/img/post/..."
 #bg-color: "linear-gradient(56deg, #155799, #159978)"
