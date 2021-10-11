@@ -2,13 +2,13 @@
 layout: post
 title:      "冥想 100 天"
 categories: [成长]
-tags:       [民谣, 温暖, 坑2Do]
+tags:       [冥想, 坑2Do]
 mathjax:    false
 date:       2013-11-12 11:08:54
 author:     "Helen Li"
 header-img: "https://cdn.rawgit.com/BruceZhaoR/brucezhaor.github.io/master/img/post/..."
 #bg-color: "linear-gradient(56deg, #155799, #159978)"
-description: "曾经是、依然是我最喜欢的歌手。温暖。"
+description: "练冥想，得永生"
 ---
 
 
