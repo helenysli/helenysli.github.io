@@ -6,7 +6,8 @@ tags:       [冥想, 坑2Do]
 mathjax:    false
 date:       2013-11-12 11:42:54
 author:     "Helen Li"
-
+description: "练冥想，得永生"
+---
 
 昨天是冥想第100天。算是一个 milestone。回头看了一遍这 100 天的 Meditation Journal，记录下第一段旅程的发现和感触。
 
