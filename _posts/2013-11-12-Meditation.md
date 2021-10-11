@@ -58,7 +58,7 @@ description: "练冥想"
 
 这样一来，好像很安心地准备取消了。 Wait a moment! 一念之间，把自己从这个想法中抽出来，隔岸观望，看得很清楚，自己不是真的因为太想读新书，而是因为情绪不高时自然切换到antisocial 的状态了，而这是我希望避免的默认状态之一。（说明一下，这只是我个人希望避免的行为）。结果我们三人度过了一个非常有意思而且有意义的晚上，Irene提议我们应该定期这样聚会。 后来收到 John 的短信。Wow。
 
-![](http://image.helenysli.top/131113HelenysliJohn.jpg)
+<img src="http://image.helenysli.top/131113HelenysliJohn.jpg" width="400" style="PADDING-RIGHT: 8px">
 
 很多时候，我们是被情绪控制和绑架的。而当我们有负面想法或情绪时，大脑会感觉不舒服，会主动去粉饰它，让我们感觉舒服点；而大脑暗地里做的这些事，其实未必是最明智的。Mindfulness Meditation的核心之一就是让我们和情境分离，观察一切，而不做评判。因为不评判，所以不会感觉不舒服，也因此能对事情有更清楚的判断。
 
