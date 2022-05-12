@@ -1,12 +1,13 @@
 ---
 layout: post
-title:      "中国捐赠圈现身 TED2022!你会和现场观众一样触动吗？"
-categories: [慈善]
-tags:       [捐赠圈]
-mathjax:    false
-date:       2022-05-12 16:33:42
-author:     "Helen Li"
-description: "捐赠圈登上 TED 舞台"
+title: "中国捐赠圈现身 TED2022! 你会和现场观众一样触动吗？"
+date: 2022-05-12 15:29:01 +0800
+categories:
+  - 慈善
+tags:
+  - 捐赠圈
+description: "捐赠圈登上了 TED 舞台。"
+****
 ---
 
 
