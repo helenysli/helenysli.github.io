@@ -14,7 +14,7 @@ description: "曾经是、依然是我最喜欢的歌手。温暖。"
 * content
 {:toc}
 
-<img src="http://image.helenysli.top/helenysli050521%20Carole%20King%201.jpg"  style="PADDING-RIGHT: 8px">
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/helenysli050521CaroleKing1.jpg)
 
 2000年的我，住在福山路18楼一套可以看见朝阳升起的房间。每天早晨，开启一天的第一个声音，是轻快的吉它音符。Carole King这张 Tapestry 专辑，是例行晨曲。我喜欢让她温暖的声音，弥漫一屋，从容的洗澡，吃早餐，关门，步行去公司。那时候的生活，简单，却又澄明，一如她的歌。
 那些日子，是记忆中状态比较好的一段。
@@ -35,7 +35,7 @@ Carole King 在演唱会接近尾声的时候才走上舞台，和 Celine Dion �
 
 ### 非典型歌手
 
-<img src="http://image.helenysli.top/helenysli050521%20Carole%20King%203.jpg" style="PADDING-RIGHT: 8px">
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/helenysli050521CaroleKing3.jpg)
 
 Carole King，作为歌手，1971年的Tapestry专辑迄今已经售达1500万张（2003年的数据），70年代，她与Joan Baez 和 Joni Mitchel并称为民谣三大天后。；作为创作者，60、70年代的主要乐团，Beatles（甲壳虫），灵歌夫人Aretha Franklin，几乎都曾演绎过她的作品，相当多歌手甚至因为她的作品一炮而红。迷幻教主Graham Nash曾经称她“重新定义了歌手/创作者”。她的温和的Soft Rock演唱风格，也曾深深的影响过不少优秀歌手，如James Taylor，Christine McVie，Mariah Carey。
 
@@ -53,7 +53,7 @@ Carole King自己说，无论写歌，还是唱歌，她的信条是“Honest，
 
 ### 白金唱片 Tapestry
 
-<img src="http://image.helenysli.top/helenysli050521%20Carole%20King%202.jpg" style="PADDING-RIGHT: 8px">
+<img src="https://helenysli.oss-cn-beijing.aliyuncs.com/helenysli050521CaroleKing2.jpg" style="PADDING-RIGHT: 8px">
 
 Tapestry是1971年最风光的唱片，为Carole King赢得4项Grammy大奖（年度最佳专辑，年度最佳女歌手，You've Got A Friend为年度最佳单曲，It's Too Late为年度最佳专辑单曲）；在公告牌上累计出现300周。而直至今日，它仍然是美国百大畅销唱片之一。这是一张阐释“经典”的唱片。
 
@@ -108,5 +108,4 @@ Carole King 的专辑在国内很难找。没有听过她的朋友，看看电�
 
 
 [^1]: 坑2Do，挖个坑，要写写去年在百老汇看的音乐剧 Beautiful；还有地铁里的一幕。161222
-
 
