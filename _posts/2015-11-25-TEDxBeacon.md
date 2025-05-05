@@ -138,7 +138,7 @@ Mary Lou对待Phoebe和其它孩子的平等与亲和，令我想起一位朋友
 
 ### 5. 最后一幕的惊喜
 
-<img src="http://image.helenysli.top/helenysli151125.NiuNiu.png" width="300" style="PADDING-RIGHT: 8px">
+<img src="http://image.helenysli.top/helenysli151125.NiuNiu.png" style="PADDING-RIGHT: 8px">
 
 周六上午，最后一个上场的是18岁的中国青年Niu Niu。
 
@@ -177,3 +177,4 @@ Title Credit：标题由Hawa贡献（微博ID：hawa1214)
 
 
 
+https://helenysli.oss-cn-beijing.aliyuncs.com/
