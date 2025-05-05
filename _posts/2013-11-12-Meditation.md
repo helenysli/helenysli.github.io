@@ -14,7 +14,7 @@ description: "练冥想，得清明"
 
 从 5 月 20 日开始，到 11 月 11 日，一共 175 天。如果从坚持的角度来看，数据不算好看。可是，换一个角度，即使这样的节奏，自己这几个月来的受益，已经令我惊叹；如果能做得更好，那岂不是可以更上层楼？：）
 
-![](http://image.helenysli.top/131113HelenysliMindfulness.jpg)
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/helenysli131113Mindfulness.jpg)
 
 我练习的是 Mindfulness Meditation。Mindfulness 这个词，我还没找到合适的翻译。在各种定义中，我个人比较喜欢的是:
 > Mindfulness is paying attention to the present, with openness, curiosity and non-judgment.
@@ -77,7 +77,7 @@ Wait a moment! 一念之间，把自己从这个想法中抽出来，隔岸观�
 
 结果，那天晚上，我们三人度过了一个非常有意思而且有意义的晚上，Irene 甚至提议我们应该定期这样聚会。 后来收到 John 的短信。Wow。
 
-<img src="http://image.helenysli.top/131113HelenysliJohn.jpg" width="400" style="PADDING-RIGHT: 8px">
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/helenysli131113iJohn.jpg)
 
 很多时候，我们被情绪控制和绑架了。当我们有负面想法或情绪时，大脑会感觉不舒服，会主动去粉饰它，让我们感觉舒服点；而大脑暗地里做的这些事，其实未必是最明智的。Mindfulness Meditation的核心之一就是让我们和情境分离，观察一切，而不做评判。因为不评判，所以不会感觉不舒服，也因此能对事情有更清楚的判断。
 
@@ -127,7 +127,7 @@ PS:
 
 [^1]: 更新链接
 
---- 
+---
 ChangeLog
 
 - 211011 迁移
